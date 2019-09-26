@@ -1,0 +1,7 @@
+C:\1JOHNSON\ASP.NET Core\NumeroUno\bin\Debug\NumeroUno.exe.config
+C:\1JOHNSON\ASP.NET Core\NumeroUno\bin\Debug\NumeroUno.exe
+C:\1JOHNSON\ASP.NET Core\NumeroUno\bin\Debug\NumeroUno.pdb
+C:\1JOHNSON\ASP.NET Core\NumeroUno\obj\Debug\NumeroUno.csproj.CoreCompileInputs.cache
+C:\1JOHNSON\ASP.NET Core\NumeroUno\obj\Debug\NumeroUno.exe
+C:\1JOHNSON\ASP.NET Core\NumeroUno\obj\Debug\NumeroUno.pdb
+C:\1JOHNSON\ASP.NET Core\NumeroUno\obj\Debug\NumeroUno.csprojAssemblyReference.cache
